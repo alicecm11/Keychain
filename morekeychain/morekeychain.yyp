@@ -1,6 +1,8 @@
 {
   "resources": [
     {"id":{"name":"Extension1","path":"extensions/Extension1/Extension1.yy",},"order":0,},
+    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":0,},
+    {"id":{"name":"Sound1","path":"sounds/Sound1/Sound1.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
